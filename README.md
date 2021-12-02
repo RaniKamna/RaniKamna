@@ -1,5 +1,8 @@
 <h1 align='center'>Hi there 👋 I'm Rani Kamna</h1>
 <h3 align='center'>Hardworking and efficient full-stack web developer with a specialization in MERN stack. Able to learn new technologies, having good communication, analytical and interpersonal skills.</h3>
+<a href="https://rani-kamna-portfolio.vercel.app/"  target="blank">
+        <button>Protfolio</button>
+</a>
 
 <!--
 **RaniKamna/RaniKamna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
