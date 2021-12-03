@@ -1,7 +1,7 @@
 <h1 align='center'>Hi there 👋 I'm Rani Kamna</h1>
 <h3 align='center'>Hardworking and efficient full-stack web developer with a specialization in MERN stack. Able to learn new technologies, having good communication, analytical and interpersonal skills.</h3>
 <a href="https://rani-kamna-portfolio.vercel.app/"  target='_blank'>
-        <button>Protfolio</button>
+        <button>Portfolio</button>
 </a>
 
 <!--
@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/rani-kamna-b12b10197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rani Kamna" height="50" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://codepen.io/ranik">
         <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/codepen-button-logo.png" alt="codepen" width='50' height='50' align='center'/>
-</a>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ranikamna7251@gmail.com">ranikamna7251@gmail.com</a>
 </p>
 
 
