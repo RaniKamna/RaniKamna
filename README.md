@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 <h2>Connect on</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/rani-kamna-b12b10197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rani Kamna" height="50" width="50"/></a>
+<a href="https://www.linkedin.com/in/rani-kamna-b12b10197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rani Kamna" height="50" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://codepen.io/ranik">codepen</a>
 </p>
+
 
 <h2 align="left">🛠 Skills</h2>
 <h3 align="left">Frontend Skills</h3>
