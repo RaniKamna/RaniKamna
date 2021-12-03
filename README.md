@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://codepen.io/ranik">
         <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/03/codepen-button-logo.png" alt="codepen" width='50' height='50' align='center'/>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:ranikamna7251@gmail.com">ranikamna7251@gmail.com</a>
+<a href="mailto:ranikamna7251@gmail.com">  <img src="http://pngimg.com/uploads/google/google_PNG19639.png" alt="gmail" width='50' height='50'  align='center' /></a>
 </p>
 
 
