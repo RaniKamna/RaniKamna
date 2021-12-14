@@ -1,5 +1,7 @@
 <h1 align='center'>Hi there 👋 I'm Rani Kamna</h1>
 <h3 align='center'>Hardworking and efficient full-stack web developer with a specialization in MERN stack. Able to learn new technologies, having good communication, analytical and interpersonal skills.</h3>
+<!-- <li align="center">🌱 I’m currently learning Data Structure and MERN Stack</li> -->
+<p align="center">👯 I’m looking to collaborate on Open Source Projects</p>
 <h2 align='center'>
         <a href="https://rani-kamna-portfolio.vercel.app/"  target='_blank'>
         <button>My Portfolio</button>
@@ -20,10 +22,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2> 🙋‍♂️ About me </h2>
-<li>🌱 I’m currently learning Data Structure and MERN Stack</li>
-<li>👯 I’m looking to collaborate on Open Source Projects</li>
-
+<!-- <h2 align="center"> 🙋‍♂️ About me </h2> -->
 <h2  align="center">Connect on</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/rani-kamna-b12b10197/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rani Kamna" height="50" width="50"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,8 +31,6 @@ Here are some ideas to get you started:
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ranikamna7251@gmail.com">  <img src="http://pngimg.com/uploads/google/google_PNG19639.png" alt="gmail" width='50' height='50'  align='center' /></a>
 </p>
-
-
 <h2 align="center">🛠 Skills</h2>
 <h3 align="center">Frontend Skills</h3>
  <p align='center'>
@@ -62,7 +59,6 @@ Here are some ideas to get you started:
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
  </a>
 </p>
-
 <h2 align="center">Stats  🔥</h2>
 <p align="center">&nbsp;
 <!--         <img align="center" src="https://github-readme-stats.vercel.app/api?username=RaniKamna&show_icons=true&locale=en" alt="RaniKamna" /> -->
