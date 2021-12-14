@@ -53,10 +53,10 @@ Here are some ideas to get you started:
  <h3 align="center">Backend Skills</h3>
  <p align='center'>
          <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs" target='_blank'>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="https://docs.mongodb.com/manual/reference/command/">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50" />
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" />
  </a>
 </p>
 <h2 align="center">Stats  🔥</h2>
